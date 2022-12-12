@@ -40,5 +40,5 @@ def Calculator(a,b,action):
         print("Bledne argumenty")
         return -1
 
-print(10/5)
+print(10/5+2)
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
