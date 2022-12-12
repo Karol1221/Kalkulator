@@ -9,7 +9,7 @@ class TestCalculator(unittest.TestCase):
         b=12
         expected=22
         # when
-        result= Calculator(10,123,'+')
+        result= Calculator(10,12,'+')
         #then
         self.assertEqual(result, expected)
 
